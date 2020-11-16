@@ -8,4 +8,4 @@ Calculate the sum of similarities of a string S with each of it's suffixes.
 
 Run API on https://localhost:5001 or http://localhost:5000.
 
-Run `yarn start` or `npm run` star from client-app folder.
+Run `yarn start` or `npm run star` from client-app folder.
